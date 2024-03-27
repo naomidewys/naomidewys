@@ -2,13 +2,20 @@
 <h4>Junior developer growing my skills🌱</h4>
 <p>She/her | Australia
   <br>
-  Member of <a href="https://www.womenwhocode.com" target="_blank">Women Who Code</a></p>
+  Member of <a href="https://www.womenwhocode.com" target="_blank">Women Who Code</a> | Learning to code through online workshops</p>
+  <hr>
+  <h3>⚙️ Toolbox</h3>
 <ul>
   <li>
-    ⚙️ Tech stack: HTML/CSS, JavaScript, and React.
+    Current tech stack: HTML/CSS, JavaScript, and React.
   </li>
-  <li>🦋 Future learnings: Python, C#, data, QA, AI/AR, and more.</li>
-  <li>💪 Learning via <a href="https://www.shecodes.io" target="_blank">SheCodes</a>, <a href="https://www.codelikeagirl.com" target="_blank">Code Like a Girl</a>, <a href="https://www.codefirstgirls.com" target="_blank">Code First Girls</a>, <a href="https://www.freecodecamp.org" target="_blank">freeCodeCamp</a>, and <a href="https://www.frontendmentor.io" target="_blank">Frontend Mentor</a>.</li>
+  <li>Looking to learn: Python, C#, data, QA, AI/AR, and more.</li>
+</ul>
+<hr>
+<h3>✨ Fun Facts</h3>
+<ul>
+  <li>I love reading, gaming, and crafting.</li>
+  <li>I'm also a freelance editor/proofreader.</li>
 </ul>
 
 
