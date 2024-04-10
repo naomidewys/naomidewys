@@ -1,21 +1,18 @@
 <h1>Hello world👋</h1>
-<h4>Junior developer growing my skills🌱</h4>
+<p><b>Web developer growing my skills🌱</b></p>
 <p>She/her | Australia
   <br>
-  Member of <a href="https://www.womenwhocode.com" target="_blank">Women Who Code</a> | Learning to code through online workshops</p>
+  Learning to code through online workshops
+<br>
+Profiles: <a href="https://www.linkedin.com/in/naomidewys/" target="_blank">LinkedIn</a> | <a href="https://www.sololearn.com/en/profile/31735983" target="_blank">Sololearn</a> | <a href="https://www.shecodes.io/graduates/7751-naomi-de-wys" target="_blank">SheCodes</a></p>
   <hr>
   <h3>⚙️ Toolbox</h3>
 <ul>
   <li>
-    Current tech stack: HTML/CSS, JavaScript, and React.
+    Tech stack - HTML/CSS, JavaScript, and React.
   </li>
-  <li>Looking to learn: Python, C#, data, QA, AI/AR, and more.</li>
-</ul>
-<hr>
-<h3>✨ Fun Facts</h3>
-<ul>
-  <li>I love reading, gaming, and crafting.</li>
-  <li>I'm also a freelance editor/proofreader.</li>
+  <li>Currently learning - Python and C#.</li>
+  <li>Improvement - Always! I love learning new skills and am always seeking opportunities to expand my knowledge.</li>
 </ul>
 
 
