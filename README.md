@@ -1,6 +1,6 @@
 <h1>Hello world👋</h1>
 <p><b>Web developer growing my skills🌱</b></p>
-<p>She/her | Australia
+<p>She/her | Australia | Lifelong learner
   <br>
   Learning to code through online workshops
 <br>
@@ -9,10 +9,11 @@ Profiles: <a href="https://www.linkedin.com/in/naomidewys/" target="_blank">Link
   <h3>⚙️ Toolbox</h3>
 <ul>
   <li>
-    Tech stack - HTML/CSS, JavaScript, and React.
+    Tech stack - HTML/CSS, JavaScript, Bootstrap, React, Python, and SQL.
   </li>
-  <li>Currently learning - Python and C#.</li>
-  <li>Improvement - Always! I love learning new skills and am always seeking opportunities to expand my knowledge.</li>
+  <li>
+    Technologies - VS Code, CodeSandbox, and Jira.
+  </li>
 </ul>
 
 
