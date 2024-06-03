@@ -1,10 +1,10 @@
 <h1>Hello world👋</h1>
 <p><b>Web developer growing my skills🌱</b></p>
-<p>She/her | Australia | Lifelong learner
+<p>She/her | Australia
   <br>
   Learning to code through online workshops
 <br>
-Profiles: <a href="https://www.linkedin.com/in/naomidewys/" target="_blank">LinkedIn</a> | <a href="https://www.sololearn.com/en/profile/31735983" target="_blank">Sololearn</a> | <a href="https://www.shecodes.io/graduates/7751-naomi-de-wys" target="_blank">SheCodes</a></p>
+Profiles: <a href="https://www.linkedin.com/in/naomidewys/" target="_blank">LinkedIn</a> | <a href="https://www.shecodes.io/graduates/7751-naomi-de-wys" target="_blank">SheCodes</a> | <a href="https://www.hackerrank.com/profile/naomidewys" target="_blank">HackerRank</a>
   <hr>
   <h3>⚙️ Toolbox</h3>
 <ul>
