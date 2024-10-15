@@ -1,5 +1,5 @@
 <h1>Hello world👋</h1>
-<p><b>Web developer growing my skills🌱</b></p>
+<p><b>Junior developer growing my skills🌱</b></p>
 <p>She/her | Australia
   <br>
   Learning to code through online workshops
@@ -14,7 +14,7 @@ Profiles: <a href="https://www.linkedin.com/in/naomidewys/" target="_blank">Link
     Tech stack - HTML/CSS, JavaScript, Bootstrap, React, Python, and SQL.
   </li>
   <li>
-    Technologies - VS Code, CodeSandbox, and Jira.
+    Technologies - VS Code, CodeSandbox, Replit, PyCharm, and Slack.
   </li>
 </ul>
 
