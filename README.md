@@ -1,20 +1,34 @@
 <h1>Hello world👋</h1>
-<p><b>Junior developer growing my skills🌱</b></p>
+<p><strong >Junior developer growing my skills🌱</strong></p>
 <p>She/her | Australia
   <br>
   Learning to code through online workshops
 <br>
 Profiles: <a href="https://www.linkedin.com/in/naomidewys/" target="_blank">LinkedIn</a> | <a href="https://www.shecodes.io/graduates/7751-naomi-de-wys" target="_blank">SheCodes</a> | <a href="https://www.hackerrank.com/profile/naomidewys" target="_blank">HackerRank</a>
   <hr>
-  <p><b>Currently working on:</b> 100 Days of Code - Python Pro bootcamp with Dr. Angela Yu.</p>
+  <p><strong>Currently working on:</strong> Code Like a Girl's <a href="https://www.codelikeagirl.com/school-of-code/" target="_blank">School of Code</a></p>
   <hr>
   <h3>⚙️ Toolbox</h3>
 <ul>
   <li>
-    Tech stack - HTML/CSS, JavaScript, Bootstrap, React, Python, and SQL.
+    Programming languages:
+    <ul>
+      <li>HTML/CSS</li>
+      <li>JavaScript</li>
+      <li>React</li>
+      <li>Python</li>
+      <li>SQL</li>
+    </ul>
   </li>
   <li>
-    Technologies - VS Code, CodeSandbox, Replit, PyCharm, and Slack.
+    Technologies
+    <ul>
+      <li>VS Code</li>
+      <li>CodeSandbox</li>
+      <li>Replit</li>
+      <li>PyCharm</li>
+      <li>Slack</li>
+    </ul>
   </li>
 </ul>
 
