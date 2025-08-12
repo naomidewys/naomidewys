@@ -1,17 +1,22 @@
 <h1>Hello world👋</h1>
 <p><strong >Junior developer growing my skills🌱</strong></p>
-<p>She/her | Australia
+<p>
+  She/her | Australia
   <br>
-  Learning to code through online workshops
-<br>
-Profiles: <a href="https://www.linkedin.com/in/naomidewys/" target="_blank">LinkedIn</a> | <a href="https://www.shecodes.io/graduates/7751-naomi-de-wys" target="_blank">SheCodes</a> | <a href="https://www.hackerrank.com/profile/naomidewys" target="_blank">HackerRank</a>
-  <hr>
-  <p><strong>Currently working on:</strong> Code Like a Girl's <a href="https://www.codelikeagirl.com/school-of-code/" target="_blank">School of Code</a></p>
+  Learning to code through self-paced online workshops
+  <br>
+  Profiles: <a href="https://www.linkedin.com/in/naomidewys/" target="_blank">LinkedIn</a> | <a href="https://www.shecodes.io/graduates/7751-naomi-de-wys" target="_blank">SheCodes</a> | <a href="https://www.hackerrank.com/profile/naomidewys" target="_blank">HackerRank</a>
+</p>
+<hr>
+  <h3>👩‍💻Currently working on:</h3>
+  ✨<a href="https://www.udemy.com/course/the-complete-web-development-bootcamp/?referralCode=F2958B9D9447BDFC8244&couponCode=25BBPMXINACTIVE" target="_blank">The Complete Full-Stack Web Development Bootcamp</a> by Dr. Angela Yu (The App Brewery)
+  <br>
+  ✨<a href="https://www.freecodecamp.org/learn/full-stack-developer/" target="_blank">Certified Full Stack Developer Curriculum</a> by freeCodeCamp
   <hr>
   <h3>⚙️ Toolbox</h3>
 <ul>
   <li>
-    Programming languages:
+    <strong>Programming languages</strong>
     <ul>
       <li>HTML/CSS</li>
       <li>JavaScript</li>
@@ -21,7 +26,7 @@ Profiles: <a href="https://www.linkedin.com/in/naomidewys/" target="_blank">Link
     </ul>
   </li>
   <li>
-    Technologies
+    <strong>Technologies</strong>
     <ul>
       <li>VS Code</li>
       <li>CodeSandbox</li>
